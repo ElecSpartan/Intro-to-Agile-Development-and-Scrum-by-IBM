@@ -1,2 +1,2 @@
 # lab-agile-planning
-This repository contains the Honor Project of intro to Agile Devolpment and Scrum By IBM
+This repository contains the labs and Honor Project of the course
